@@ -1,0 +1,16 @@
+C:\Users\Roly\source\repos\graflab3\graflab3\bin\Debug\net8.0-windows\graflab3.exe
+C:\Users\Roly\source\repos\graflab3\graflab3\bin\Debug\net8.0-windows\graflab3.deps.json
+C:\Users\Roly\source\repos\graflab3\graflab3\bin\Debug\net8.0-windows\graflab3.runtimeconfig.json
+C:\Users\Roly\source\repos\graflab3\graflab3\bin\Debug\net8.0-windows\graflab3.dll
+C:\Users\Roly\source\repos\graflab3\graflab3\bin\Debug\net8.0-windows\graflab3.pdb
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\graflab3.Form1.resources
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\graflab3.csproj.GenerateResource.cache
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\graflab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\graflab3.AssemblyInfoInputs.cache
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\graflab3.AssemblyInfo.cs
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\graflab3.csproj.CoreCompileInputs.cache
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\graflab3.dll
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\refint\graflab3.dll
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\graflab3.pdb
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\graflab3.genruntimeconfig.cache
+C:\Users\Roly\source\repos\graflab3\graflab3\obj\Debug\net8.0-windows\ref\graflab3.dll
