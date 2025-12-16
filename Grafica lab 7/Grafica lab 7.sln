@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafica lab 7", "Grafica lab 7\Grafica lab 7.csproj", "{12BBE0AE-0EA7-4071-A1CB-9B0EFC839732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BBE0AE-0EA7-4071-A1CB-9B0EFC839732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BBE0AE-0EA7-4071-A1CB-9B0EFC839732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BBE0AE-0EA7-4071-A1CB-9B0EFC839732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BBE0AE-0EA7-4071-A1CB-9B0EFC839732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DADB83B8-BA17-471B-8B52-C15FF195A0E8}
+	EndGlobalSection
+EndGlobal

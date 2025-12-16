@@ -1,0 +1,16 @@
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\bin\Debug\net8.0-windows\grafica lab 5.2.exe
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\bin\Debug\net8.0-windows\grafica lab 5.2.deps.json
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\bin\Debug\net8.0-windows\grafica lab 5.2.runtimeconfig.json
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\bin\Debug\net8.0-windows\grafica lab 5.2.dll
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\bin\Debug\net8.0-windows\grafica lab 5.2.pdb
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\grafica_lab_5._2.Form1.resources
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\grafica lab 5.2.csproj.GenerateResource.cache
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\grafica lab 5.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\grafica lab 5.2.AssemblyInfoInputs.cache
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\grafica lab 5.2.AssemblyInfo.cs
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\grafica lab 5.2.csproj.CoreCompileInputs.cache
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\grafica lab 5.2.dll
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\refint\grafica lab 5.2.dll
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\grafica lab 5.2.pdb
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\grafica lab 5.2.genruntimeconfig.cache
+C:\Users\Roly\source\repos\grafica lab 5.2\grafica lab 5.2\obj\Debug\net8.0-windows\ref\grafica lab 5.2.dll
