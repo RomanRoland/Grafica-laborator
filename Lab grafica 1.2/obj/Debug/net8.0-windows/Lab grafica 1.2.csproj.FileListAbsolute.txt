@@ -1,0 +1,16 @@
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\bin\Debug\net8.0-windows\Lab grafica 1.2.exe
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\bin\Debug\net8.0-windows\Lab grafica 1.2.deps.json
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\bin\Debug\net8.0-windows\Lab grafica 1.2.runtimeconfig.json
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\bin\Debug\net8.0-windows\Lab grafica 1.2.dll
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\bin\Debug\net8.0-windows\Lab grafica 1.2.pdb
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\Lab_grafica_1._2.Form1.resources
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\Lab grafica 1.2.csproj.GenerateResource.cache
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\Lab grafica 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\Lab grafica 1.2.AssemblyInfoInputs.cache
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\Lab grafica 1.2.AssemblyInfo.cs
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\Lab grafica 1.2.csproj.CoreCompileInputs.cache
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\Lab grafica 1.2.dll
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\refint\Lab grafica 1.2.dll
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\Lab grafica 1.2.pdb
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\Lab grafica 1.2.genruntimeconfig.cache
+C:\Users\hotid\source\repos\Lab grafica 1.2\Lab grafica 1.2\obj\Debug\net8.0-windows\ref\Lab grafica 1.2.dll

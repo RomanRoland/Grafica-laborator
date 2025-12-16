@@ -1,0 +1,16 @@
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\bin\Debug\net8.0-windows\Grafica lab 1.4.exe
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\bin\Debug\net8.0-windows\Grafica lab 1.4.deps.json
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\bin\Debug\net8.0-windows\Grafica lab 1.4.runtimeconfig.json
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\bin\Debug\net8.0-windows\Grafica lab 1.4.dll
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\bin\Debug\net8.0-windows\Grafica lab 1.4.pdb
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\Grafica_lab_1._4.Form1.resources
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\Grafica lab 1.4.csproj.GenerateResource.cache
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\Grafica lab 1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\Grafica lab 1.4.AssemblyInfoInputs.cache
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\Grafica lab 1.4.AssemblyInfo.cs
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\Grafica lab 1.4.csproj.CoreCompileInputs.cache
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\Grafica lab 1.4.dll
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\refint\Grafica lab 1.4.dll
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\Grafica lab 1.4.pdb
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\Grafica lab 1.4.genruntimeconfig.cache
+C:\Users\hotid\source\repos\Grafica lab 1.4\Grafica lab 1.4\obj\Debug\net8.0-windows\ref\Grafica lab 1.4.dll
